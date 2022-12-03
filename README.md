@@ -1,1 +1,1 @@
-*vagrant* _vagrant_
+uname
